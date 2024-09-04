@@ -59,7 +59,7 @@ func main() {
 			"data": "resource data",
 		})
 	})
-	r.Run(":8000") // Listen and serve on 0.0.0.0:8080 (for Windows "localhost:8080")
+	r.Run(":8000") 
 }
 
 func generateJWT() (string, error) {
