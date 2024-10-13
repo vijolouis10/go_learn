@@ -1,4 +1,4 @@
-module crud_apis
+module crud-apis
 
 go 1.19
 
